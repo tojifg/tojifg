@@ -1,6 +1,7 @@
-       numbers and texts are links / used to be @fushiguro-toji
-THANKS SHIG~~ HTTPS://RENTRY.CO/TOJIFG
-       
+[![image](https://github.com/tojifg/tojifg/assets/116244347/65adeb08-ae44-403d-bdd7-4da08623f19a)](https://rentry.co/tojifg)
+
+       numbers and texts are links / used to be @fushiguro-toji   
+
 ![image](https://github.com/tojifg/tojifg/assets/116244347/10787258-e5b1-4542-b787-de58515d7cce)
 
 [![image](https://github.com/tojifg/tojifg/assets/116244347/49bdb552-9b9c-459c-8c71-6cd679a3ab2d)](https://rentry.co/tojifushiguro)
