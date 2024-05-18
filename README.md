@@ -1,4 +1,5 @@
-       Thanks shig~ [.co/tojifg](https://rentry.co/tojifg) numbers and texts are links / used to be @fushiguro-toji
+       numbers and texts are links / used to be @fushiguro-toji
+Thanks shig~ [.co/tojifg](https://rentry.co/tojifg) 
        
 ![image](https://github.com/tojifg/tojifg/assets/116244347/10787258-e5b1-4542-b787-de58515d7cce)
 
