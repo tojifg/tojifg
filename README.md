@@ -5,7 +5,7 @@
 ![image](https://github.com/tojifg/tojifg/assets/116244347/10787258-e5b1-4542-b787-de58515d7cce)
 
 [![image](https://github.com/tojifg/tojifg/assets/116244347/49bdb552-9b9c-459c-8c71-6cd679a3ab2d)](https://rentry.co/tojifushiguro)
-[![image](https://github.com/tojifg/tojifg/assets/116244347/7bb469ff-15a7-4c7e-b904-90d52975767e)](https://rentry.co/photocopier)
+[![image](https://github.com/tojifg/tojifg/assets/116244347/7bb469ff-15a7-4c7e-b904-90d52975767e)](https://accardi.carrd.co/)
 [![image](https://github.com/tojifg/tojifg/assets/116244347/86e032bc-ff19-40f6-a71d-a672ac600b40)](https://rentry.co/florentino)
 
 ![image](https://github.com/tojifg/tojifg/assets/116244347/5e18a2f0-904d-4b63-a2f6-39a1137c040d)
