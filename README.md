@@ -1,5 +1,3 @@
-[![image](https://github.com/tojifg/tojifg/assets/116244347/65adeb08-ae44-403d-bdd7-4da08623f19a)](https://rentry.co/tojifg)
-
        numbers on the big image and texts are links / used to be @fushiguro-toji   
 
 ![image](https://github.com/tojifg/tojifg/assets/116244347/10787258-e5b1-4542-b787-de58515d7cce)
@@ -18,3 +16,8 @@
 
 ![image](https://github.com/tojifg/tojifg/assets/116244347/043f810e-371e-4cb1-b7a0-d04cef2d1ff4)
 
+<a href="https://github.com/tojifg/meow/blob/main/README.md">
+<img src="https://github.com/tojifg/tojifg/blob/main/images/svg/O_O.svg"</img>
+</a>
+
+![](https://komarev.com/ghpvc/?username=tojifg&color=000000&style=for-the-badge&label=VICTIM+COUNT&base=100)
