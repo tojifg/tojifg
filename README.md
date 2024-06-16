@@ -20,4 +20,4 @@
 <img src="https://github.com/tojifg/tojifg/blob/main/images/svg/O_O.svg"</img>
 </a>
 
-![](https://komarev.com/ghpvc/?username=tojifg&color=000000&style=for-the-badge&label=VICTIM+COUNT&base=100)
+![](https://komarev.com/ghpvc/?username=tojifg&color=000000&style=for-the-badge&label=VICTIM+COUNT&base=10000)
