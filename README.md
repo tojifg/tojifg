@@ -4,11 +4,18 @@
 [![image](https://github.com/tojifg/tojifg/assets/116244347/d2e80a96-557c-4636-8c41-4074a2203986)](https://rentry.co/tojifushiguro)
 [![image](https://github.com/tojifg/tojifg/assets/116244347/25e63925-54dd-45e0-8faf-102d1dbcad84)](https://rentry.co/florentino)
 
+[![image](https://github.com/tojifg/tojifg/assets/116244347/552d94a1-e50b-4b50-8982-6a298f150645)](https://discordid.netlify.app/?id=324911188662026241) ![image](https://github.com/tojifg/tojifg/assets/116244347/a8061c9e-ed6e-47b1-9a0b-192f174b34cc)
+[![image](https://github.com/tojifg/tojifg/assets/116244347/2f4937db-9bc7-4a5c-8a44-6168c8795ba7)](https://txto.eu.org/fushigurotoji) ![image](https://github.com/tojifg/tojifg/assets/116244347/7b75efe0-65a2-465f-8170-e7d9940fa75d)
+[![image](https://github.com/tojifg/tojifg/assets/116244347/7fde42f5-63ee-4fdc-b92e-746564851c17)](https://listography.com/fushigurotoji) ![image](https://github.com/tojifg/tojifg/assets/116244347/97390f69-d259-4a93-a628-e472e05ef7b0)
+[![image](https://github.com/tojifg/tojifg/assets/116244347/9227fd0e-180c-485a-a045-cab596dfe2d9)](https://x.com/tojifgr)⠀![image](https://github.com/tojifg/tojifg/assets/116244347/32dbb498-d241-4134-9de0-3845737e4b9b)
+ [![image](https://github.com/tojifg/tojifg/assets/116244347/18c4f537-a2b3-4e41-b931-5d92c7b331de)](https://accardi.carrd.co/)
 
-[![image](https://github.com/tojifg/tojifg/assets/116244347/0f35e1dc-619b-4d73-a4b7-028603775a27)](https://discordid.netlify.app/?id=324911188662026241) ![image](https://github.com/tojifg/tojifg/assets/116244347/5d9abd44-f486-434c-a939-29ecfb493143)⠀[![image](https://github.com/tojifg/tojifg/assets/116244347/753f4cac-1706-4087-aad0-0896299c9f77)](https://txto.eu.org/fushigurotoji) ![image](https://github.com/tojifg/tojifg/assets/116244347/5ab65ec5-27f5-468a-94be-69ed061d3c68) ㅤ[![image](https://github.com/tojifg/tojifg/assets/116244347/84c330e2-4a00-4b6d-a905-a977b1e80de8)](https://listography.com/fushigurotoji) ⠀![image](https://github.com/tojifg/tojifg/assets/116244347/8bb8c546-7ec9-4f3e-ba49-b8f3ef1cef19) [![image](https://github.com/tojifg/tojifg/assets/116244347/788672dd-db55-49ac-b2a7-0f6b05300cf0)](https://x.com/tojifgr)⠀![image](https://github.com/tojifg/tojifg/assets/116244347/8d58ea4e-5223-4715-8e8d-d8e2c31c8fa4) [![image](https://github.com/tojifg/tojifg/assets/116244347/7ecd204d-147e-4d42-a5ed-473d2c1f2248)](https://x.com/narunifu)
+# 
+![image](https://github.com/tojifg/tojifg/assets/116244347/70b4eb50-3307-438f-9623-3c092ace38ce)
 
+#
 <a href="https://github.com/tojifg/meow/blob/main/README.md">
 <img src="https://github.com/tojifg/tojifg/blob/main/images/svg/O_O.svg"</img>
 </a>
 
-![](https://komarev.com/ghpvc/?username=tojifg&color=000000&style=for-the-badge&label=VICTIM+COUNT&base=10000)
+![](https://komarev.com/ghpvc/?username=tojifg&color=FFC0FC&style=for-the-badge&label=VICTIM+COUNT&base=10000)
