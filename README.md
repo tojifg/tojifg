@@ -10,7 +10,7 @@
  [![image](https://github.com/tojifg/tojifg/assets/116244347/18c4f537-a2b3-4e41-b931-5d92c7b331de)](https://accardi.carrd.co/)
 
 # 
-![image](https://github.com/tojifg/tojifg/assets/116244347/70b4eb50-3307-438f-9623-3c092ace38ce)
+![image](https://github.com/tojifg/tojifg/assets/116244347/611cb0c7-6dc0-4abe-b6b3-48d8d9f12466)
 
 #
 <a href="https://github.com/tojifg/meow/blob/main/README.md">
