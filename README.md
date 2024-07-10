@@ -12,5 +12,7 @@
 <hr></hr>
 <a href="https://open.spotify.com/track/7MlDNspYwfqnHxORufupwq?si=7ec00b08d1894b05"><img src="https://readme-typing-svg.demolab.com?font=Luckiest+Guy&size=18&letterSpacing=2px&duration=4000&pause=270&color=F7F560&center=true&vCenter=true&multiline=true&random=false&width=600&height=70&lines=I+DON'T+NEED+THAT+LATE+NIGHT+HIGH+!;I'M+FLOATING+ON+MY+VIBE.+VIBE%2C+VIBE." /></a>
 </h5>
-
-![](https://komarev.com/ghpvc/?username=tojifg&color=11D3E7&style=for-the-badge&label=VICTIM+COUNT&base=10000)
+<br></br>
+<h4 align="right">
+  <img src="https://komarev.com/ghpvc/?username=tojifg&color=11D3E7&style=for-the-badge&label=VICTIM+COUNT&base=10000">
+</h4>
