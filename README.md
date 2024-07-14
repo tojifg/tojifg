@@ -1,16 +1,12 @@
 <h4 align="center">
-<a href="https://open.spotify.com/track/7MlDNspYwfqnHxORufupwq?si=7ec00b08d1894b05"><img src="https://readme-typing-svg.demolab.com?font=Luckiest+Guy&size=18&letterSpacing=2px&duration=4000&pause=270&color=3BE6F7&center=true&vCenter=true&multiline=true&random=false&width=600&height=70&lines=FLOATING+%E2%A0%80%E2%A0%80ON+%E2%A0%80%E2%A0%80MY+%E2%A0%80%E2%A0%80LOWKEY+%E2%A0%80%E2%A0%80VIBE!;FLOATING+ON+MY+LOWKEY+VIBE%2C+VIBE%2C+VIBE!" /></img></a>
+<a href="https://open.spotify.com/track/5hK2Ks25jW6aMmUAHpAN3F?si=74bb7d060295470f"><img src="https://readme-typing-svg.demolab.com?font=Fredoka+One&duration=3000&pause=1000&color=36D4EE&center=true&vCenter=true&multiline=true&random=false&width=500&height=70&lines=AND+NOW+I'M+FALLING+FOR+YA+!+FALLING+FOR+YA+!;I+KNOW+I+SHOULDN'T+BUT+I+...%E2%A0%80+I+JUST+CAN'T+STOP" alt="Typing SVG" /></img></a                                                          
 </h4>
 <hr></hr>
 <h5 align="center">
-<a href="https://rentry.co/menuscreen/"><img src="https://i.postimg.cc/dQpcw5Mc/ezgif-2-2e51b5b6ac.png"></img></a>
-<br></br>
-<a href="https://toji.atabook.org/"><img src="https://i.postimg.cc/50v9MTPy/ezgif-2-9afe77f3e1.png"></img></a>
-  <br></br>
-<a href="https://sptfy.com/accardi/"><img src="https://i.postimg.cc/YqD5b83s/ezgif-2-9dc4e87951.png"></img></a>
+<a href="https://rentry.co/menuscreen/"><img src="https://i.imgur.com/DMKBy9x.png"></img></a>
 
 <hr></hr>
-<a href="https://open.spotify.com/track/7MlDNspYwfqnHxORufupwq?si=7ec00b08d1894b05"><img src="https://readme-typing-svg.demolab.com?font=Luckiest+Guy&size=18&letterSpacing=2px&duration=4000&pause=270&color=F7F560&center=true&vCenter=true&multiline=true&random=false&width=600&height=70&lines=I+DON'T+NEED+THAT+LATE+NIGHT+HIGH+!;I'M+FLOATING+ON+MY+VIBE.+VIBE%2C+VIBE." /></a>
+<a href="https://open.spotify.com/track/5hK2Ks25jW6aMmUAHpAN3F?si=74bb7d060295470f"><img src="https://readme-typing-svg.demolab.com?font=Fredoka+One&size=17&duration=3000&pause=1000&color=FFF099&center=true&vCenter=true&multiline=true&random=false&width=500&height=70&lines=+MYSELF+FROM+FALLING+FOR+YA+!+FALLING+FOR+YA!+CAN'T;HOLD+ON+ANY+LONGER!+AND+NOW+I'M+FALLING+FOR+YOU!" alt="Typing SVG" /></img></a>
 </h5>
 <br></br>
 <h4 align="right">
