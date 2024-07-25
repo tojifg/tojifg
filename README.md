@@ -1,4 +1,4 @@
-<h4 align="center">
+  <h4 align="center">
 <a href="https://open.spotify.com/track/6dG217tUp4EHU6XkV6Fncq?si=bd33fd7da4b14a5a"><img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=27&duration=4000&pause=1700&color=F7E265&center=true&vCenter=true&width=500&height=40&lines=MOVE+ON+!+%E3%82%A4%E3%83%90%E3%83%A9%E3%83%9F%E3%83%81+%E6%96%B0%E3%81%9F%E3%81%AA%E3%82%8B%E6%9C%AA%E7%9F%A5" alt="Song lyrics" /></img></a                      
                                                                                                                                                                                                                                                                                  
 <br><img src="https://github.com/user-attachments/assets/ca3633dc-f673-46bf-9367-7d9ed6f70c52"></img>
@@ -17,5 +17,5 @@
 <br></br>
 <hr></hr>
 <h4 align="right">
-  <img src="https://komarev.com/ghpvc/?username=tojifg&color=B4A135&style=for-the-badge&label=VICTIM+COUNT&base=100000">
+  <img src="https://komarev.com/ghpvc/?username=tojifg&color=B4A135&style=for-the-badge&label=YŌKAI+COUNT&base=100000">
 </h4>
