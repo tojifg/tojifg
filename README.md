@@ -17,5 +17,5 @@
 <br></br>
 <hr></hr>
 <h4 align="right">
-  <img src="https://komarev.com/ghpvc/?username=tojifg&color=EBD929&style=for-the-badge&label=VICTIM+COUNT&base=10000">
+  <img src="https://komarev.com/ghpvc/?username=tojifg&color=B4A135&style=for-the-badge&label=VICTIM+COUNT&base=100000">
 </h4>
