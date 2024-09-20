@@ -2,7 +2,7 @@
 <br>
 </h4>
 <h5 align="center">
-<a href="https://rentry.co/menuscreen/"><img src="https://github.com/user-attachments/assets/8bc6d50b-6fb2-4aba-a06e-835463a41c4c"></img></a>
+<a href="https://rentry.co/menuscreen/"><img src="https://github.com/user-attachments/assets/5dbad9d4-d61e-456a-8d3f-9d23866d298a"></img></a>
 <br></br>
 <br></br>
 
