@@ -1,19 +1,18 @@
-  <h4 align="center">                                                                                                                                                                                                                                                                               
+  <h4 align="center">                                                                                                                                                                                                                                                            <img src="https://readme-typing-svg.demolab.com?font=Nanum+Gothic&size=53&duration=2000&pause=1000&color=000000&center=true&vCenter=true&width=600&height=80&lines=%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%E3%80%81%E6%88%91%E3%81%8C%E8%83%8E%E5%86%85%E3%81%B8+" alt="Text" />
 <br>
 </h4>
 <h5 align="center">
-<a href="https://rentry.co/menuscreen/"><img src="https://github.com/user-attachments/assets/5dbad9d4-d61e-456a-8d3f-9d23866d298a"></img></a>
+<img src="https://github.com/user-attachments/assets/bbc3e85e-584e-4709-a202-35e2403b3a93"></img>
+<a href="https://rentry.co/sit"><img src="https://github.com/user-attachments/assets/02d1a26f-e637-4c02-ad3f-56c23873cd56"></img></a>
+
 <br></br>
 <br></br>
 
-will redo this readme soon " <a href="https://guns.lol/koga">guns.lol</a> ⟡ <a href="https://rentry.co/thug">rentry</a> ⟡ <a href="https://rentry.co/cherrytears">cherrycrush</a>
- <br><a href="https://rentry.co/genjo"><img src="https://github.com/user-attachments/assets/77792d12-6604-439a-9f63-8f6072d5f390"></img></a> ⟡⠀<a href="https://rentry.co/menuscreen"><img src="https://github.com/user-attachments/assets/cc4829b9-a376-4163-8dab-03e400c56b29"></img></a>ㅤ⟡⠀<a href="https://toji.atabook.org/"><img src="https://github.com/user-attachments/assets/4d16de8a-cfa9-43f0-b5aa-d8e4bf2ddcf5"></img></a> ⟡⠀<a href="https://rentry.co/crushesdni"><img src="https://github.com/user-attachments/assets/4b59c5c4-5db1-42fe-8f1e-f403daedf527"></img></a><br>
-<a href="https://retrospring.net/@florentino"><img src="https://github.com/user-attachments/assets/0a3dcf42-1031-4cff-9631-c80072a8004c"></img></a> ㅤ⟡⠀⠀ㅤ<a href="https://sptfy.com/cherrycrush"><img src="https://github.com/user-attachments/assets/e074cdf4-b014-423f-9d41-34784775f7ca"></img></a> ㅤ⠀⟡ㅤ⠀<a href="https://sptfy.com/accardi"><img src="https://github.com/user-attachments/assets/825cfa8c-ee36-42d3-b894-3f27674f368a"></img></a><br>
 
 <br>
 
 <br></br>
 <hr></hr>
 <h4 align="right">
-  <img src="https://komarev.com/ghpvc/?username=tojifg&color=c895b8&style=for-the-badge&label=UKE+COUNT&base=1000000000">
+  <img src="https://komarev.com/ghpvc/?username=tojifg&color=000000&style=for-the-badge&label=UKE+COUNT&base=1000000000">
 </h4>
