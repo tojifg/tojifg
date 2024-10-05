@@ -14,5 +14,5 @@
 <br></br>
 <hr></hr>
 <h4 align="right">
-  <img src="https://komarev.com/ghpvc/?username=tojifg&color=000000&style=for-the-badge&label=UKE+COUNT&base=1000000000">
+  <img src="https://komarev.com/ghpvc/?username=tojifg&color=000000&style=for-the-badge&label=CLIMBED+MOUNTAINS+COUNT&base=1000000000">
 </h4>
