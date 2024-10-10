@@ -7,5 +7,5 @@
 
 <br></br>
 <h4 align="right">
-  <img src="https://komarev.com/ghpvc/?username=tojifg&color=40ab26&style=for-the-badge&label=SERPOS+CAPTURED+COUNT&base=1000000000">
+  <img src="https://komarev.com/ghpvc/?username=tojifg&color=40ab26&style=for-the-badge&label=SERPOS+KILLED+COUNT&base=1000000000">
 </h4>
