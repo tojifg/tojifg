@@ -2,7 +2,7 @@
 <br>
 </h4>
 <h5 align="center">
-<a href="https://rentry.co/chiryu"><img src="https://github.com/user-attachments/assets/8ebd43c4-b94e-4b2a-8b63-2cea005bf6af"></img></a>
+<a href="https://rentry.co/sit"><img src="https://github.com/user-attachments/assets/8ebd43c4-b94e-4b2a-8b63-2cea005bf6af"></img></a>
 </h5>
 
 <br></br>
