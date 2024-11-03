@@ -5,5 +5,5 @@
 </h5>
 <br>
 <h4 align="right">
-  <img src="https://komarev.com/ghpvc/?username=tojifg&color=6addcf&style=for-the-badge&label=VIVINOS+HATES+YOU+THIS+MUCH:&base=1000000000">
+  <img src="https://komarev.com/ghpvc/?username=tojifg&color=6addcf&style=for-the-badge&label=VIVIMENG+HATES+YOU+THIS+MUCH:&base=1000000000">
 </h4>
