@@ -1,8 +1,8 @@
 
 <h5 align="center">
-  retro, ata, strawpage & tree all in bio
+  rs, ata, sp & tree all in bio
   <br><br><br>
-<a href="https://rentry.co/sit"><img src="https://github.com/user-attachments/assets/7b079a63-defd-4e29-aa4d-b23e07ab116a"width="180" height="180"></img></a><br><br><br>
+<a href="https://rentry.co/sit"><img src="https://github.com/user-attachments/assets/fb0132ff-d3f1-47fb-bd9a-e5a9ff99c69e"width="180" height="auto"></img></a><br><br><br>
   ↑ click for links ↑
 </h5>
 <br>
