@@ -2,7 +2,7 @@
 <h5 align="center">
   retrospring, atabook, strawpage & tree in bio
   <br><br><br>
-<a href="https://rentry.co/sit"><img src="https://github.com/user-attachments/assets/86fc27ab-feb1-400c-9890-e120107339e0"width="270" height="auto"></img></a><br><br><br>
+<a href="https://rentry.co/sit"><img src="https://github.com/user-attachments/assets/86fc27ab-feb1-400c-9890-e120107339e0"width="250" height="auto"></img></a><br><br><br>
   ↑ click for links ↑
 </h5>
 <br>
