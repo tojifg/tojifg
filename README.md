@@ -1,6 +1,6 @@
 
 <h5 align="center">
-  atabook, strawpage & colormytree in bio
+  sign my atabook, strawpage & color my tree
   <br><br><br>
 <a href="https://rentry.co/sit"><img src="https://files.catbox.moe/kac4mw.gif"width="300" height="auto"></img></a><br><br><br>
   ↑ click for links ↑
