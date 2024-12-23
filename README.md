@@ -1,8 +1,8 @@
 
 <h5 align="center">
-  matching rentry, ata, strawpage & tree in bio
+  ata, strawpage & tree in bio
   <br><br><br>
-<a href="https://rentry.co/sit"><img src="https://github.com/user-attachments/assets/86fc27ab-feb1-400c-9890-e120107339e0"width="250" height="auto"></img></a><br><br><br>
+<a href="https://rentry.co/sit"><img src="https://github.com/user-attachments/assets/b3362dd1-de6e-47b0-ae5a-78f31d0108c2"width="250" height="auto"></img></a><br><br><br>
   ↑ click for links ↑
 </h5>
 <br>
