@@ -1,8 +1,8 @@
 
 <h5 align="center">
-  sign my atabook, strawpage & color my tree
+  atabook, strawpage & tree in bio
   <br><br><br>
-<a href="https://rentry.co/sit"><img src="https://files.catbox.moe/kac4mw.gif"width="300" height="auto"></img></a><br><br><br>
+<a href="https://rentry.co/sit"><img src="https://github.com/user-attachments/assets/a3323f4e-8ca8-4bc0-9d6d-8da197133f3e"width="300" height="auto"></img></a><br><br><br>
   ↑ click for links ↑
 </h5>
 <br>
