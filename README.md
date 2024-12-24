@@ -7,5 +7,5 @@
 </h5>
 <br>
 <h4 align="right">
-  <img src="https://komarev.com/ghpvc/?username=tojifg&color=bee4fc&style=for-the-badge&label=KISS+COUNT:&base=1000000000">
+  <img src="https://komarev.com/ghpvc/?username=tojifg&color=9cd8ae&style=for-the-badge&label=CLIENTS+COUNT:&base=1000000000">
 </h4>
