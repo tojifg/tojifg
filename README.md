@@ -1,4 +1,4 @@
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
 <h5 align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fondamento&size=30&duration=1500&pause=5000&color=5D5D5D&center=true&vCenter=true&width=550&height=35&lines=CLICK+ON+ANY+IMAGE+TO+NAVIGATE"><br>
 <img src="https://github.com/user-attachments/assets/d6f72e64-323f-4430-8686-5e5285f7f4ca" width="540" height= "5"><br><br>
