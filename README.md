@@ -9,7 +9,7 @@
   <a href="https://github.com/bathroombreak/">兄貴</a>⠀<a href="https://github.com/9ANTZ/">帅哥♡</a>⠀<a href="https://github.com/10shadows/">khoi fish</a>⠀<a href="https://github.com/eatsleepedge/">fatynka</a>
   <br> <a href="https://github.com/basementjazz/">義理の兄</a>⠀<a href="https://github.com/blackbetta/">kyS</a>⠀<a href="https://github.com/vampaku/">manshed</a> ⠀<a href="https://github.com/deepaffection/">老婆</a>
   <br><a href="https://github.com/junkshot/">last braincell¹</a> EGO <a href="https://github.com/momoayase/">side hustle²</a>
-  <br><a href="https://github.com/Ovrpheus/">orvph</a> ⠀<a href="https://github.com/fuziyamas/">fuzay</a> <a href="https://github.com/njqh/">goodnight</a>⠀<a href="https://github.com/P5royal/">oreo</a>
+  <br><a href="https://github.com/Ovrpheus/">orvph</a> ⠀<a href="https://github.com/fuziyamas/">fuzay</a> ⠀<a href="https://github.com/njqh/">gudnight</a>⠀<a href="https://github.com/P5royal/">oreo</a>
   <br><a href="https://github.com/dandysworld/">bob ross</a> ⠀<a href="https://github.com/LoveCrime/">trauma scar</a> ⠀ <a href="https://github.com/untildawn/">moot</a>
   <br><a href="https://github.com/Ivanvtill/">opps got him</a>⠀<a href="https://github.com/9THNINJA/">ray</a> hei enigma..
 </h5>
