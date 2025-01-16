@@ -9,7 +9,7 @@
 shoutout my gang<br>
   <a href="https://github.com/bathroombreak/">heavy harvey</a> 兄貴 ⠀<a href="https://github.com/10shadows/">khoi fish</a>⠀<a href="https://github.com/eatsleepedge/">fatynka</a>⠀
   <br> <a href="https://github.com/basementjazz/">ack sack</a> 義理の兄⠀<a href="https://github.com/blackbetta/">kai kys</a>
-  <br> <a href="https://github.com/vampaku/">manshed</a>⠀<a href="https://github.com/deepaffection/">老婆</a>⠀<a href="https://github.com/9ANTZ/">小哥哥♡</a>
+  <br> <a href="https://github.com/9ANTZ/">帅哥♡</a>⠀<a href="https://github.com/vampaku/">manshed</a>⠀<a href="https://github.com/deepaffection/">老婆</a>
   <br>EGO <a href="https://github.com/junkshot/">brain-eating amoeba¹</a>⠀<a href="https://github.com/momoayase/">side hustle²</a>
   <br><a href="https://github.com/Ovrpheus/">orvph</a> ⠀<a href="https://github.com/fuziyamas/">fuzay</a>⠀<a href="https://github.com/njqh/">goodnight</a>⠀<a href="https://github.com/P5royal/">oreo</a>⠀<a href="https://github.com/dandysworld/">bob ross</a>⠀<a href="https://github.com/LoveCrime/">trauma scar</a>⠀
   <br><a href="https://github.com/Ivanvtill/">banned</a>⠀<a href="https://github.com/9THNINJA/">ray</a> hei enigma... <a href="https://github.com/untildawn/">moot</a>
