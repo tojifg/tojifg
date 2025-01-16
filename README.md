@@ -4,7 +4,9 @@
 <a href="https://rentry.co/thug"><img src="https://files.catbox.moe/iymxcc.png" width="200" height="auto"></img></a> <a href="https://rentry.co/sit"><img src="https://files.catbox.moe/355r9r.png" width="200" height="auto"></img></a> <a href="https://toji.atabook.org/"><img src="https://files.catbox.moe/tburoc.png" width="200" height="auto"></a></img><br><br>
 <img src="https://github.com/user-attachments/assets/d6f72e64-323f-4430-8686-5e5285f7f4ca" width="540" height= "5"><br><br>
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀<img src="https://komarev.com/ghpvc/?username=tojifg&color=66517a&style=for-the-badge&label=CLIENTS+COUNT:&base=1000000000"></img>
-
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-shoutout my gang <a href="https://github.com/bathroombreak/">@bathroombreak</a> 兄貴 ⠀@10shadows @eatsleepedge⠀ @basementjazz 義理の兄 @blackbetta @vampaku @deepaffection♡ @9ANTZ | EGO @junkshot¹ @momoayase² @Ovrpheus⠀@fuziyamas @njqh @P5royal @dandysworldㅤ@LoveCrimeㅤ @Ivanvtill @9THNINJA hei enigma...ㅤㅤ @untildawn
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+shoutout my gang <a href="https://github.com/bathroombreak/">@bathroombreak</a> 兄貴 ⠀@10shadows @eatsleepedge⠀<br> @basementjazz 義理の兄 @blackbetta 
+  <br> @vampaku @deepaffection♡ @9ANTZ 
+  <br>EGO @junkshot¹ @momoayase² <br>
+  @Ovrpheus⠀@fuziyamas @njqh @P5royal @dandysworld @LoveCrime @Ivanvtill @9THNINJA hei enigma... @untildawn
 </h5>
