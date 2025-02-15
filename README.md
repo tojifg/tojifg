@@ -6,7 +6,7 @@
 <br>
 <img src="https://github.com/user-attachments/assets/d6f72e64-323f-4430-8686-5e5285f7f4ca" width="220" height= "5"><br><br>
   
-  <a href="https://github.com/bathroombreak/"><img src="https://github.com/tojifg/tojifg/blob/af1c1b20de8d38d15779c3d284c23d2862b9c0b3/harvey.svg"></img></a> ⠀ <a href="https://github.com/9ANTZ/"><img src="https://github.com/tojifg/tojifg/blob/af1c1b20de8d38d15779c3d284c23d2862b9c0b3/hc.svg"></img></a> ⠀ <a href="https://github.com/10shadows/"><img src="https://github.com/tojifg/tojifg/blob/af1c1b20de8d38d15779c3d284c23d2862b9c0b3/khoi.svg"></img></a> ⠀ <a href="https://github.com/eatsleepedge/"><img src="https://github.com/tojifg/tojifg/blob/78b4c21723072576d038fea6f24602de3f9af278/cati.svg"></img></a>
+  <a href="https://github.com/bathroombreak/"><img src="https://github.com/tojifg/tojifg/blob/af1c1b20de8d38d15779c3d284c23d2862b9c0b3/harvey.svg"></img></a> ⠀ <a href="https://github.com/9ANTZ/"><img src="https://github.com/tojifg/tojifg/blob/aa59084778b75078605485d87182855214a0b739/hc.svg"></img></a> ⠀ <a href="https://github.com/10shadows/"><img src="https://github.com/tojifg/tojifg/blob/af1c1b20de8d38d15779c3d284c23d2862b9c0b3/khoi.svg"></img></a> ⠀ <a href="https://github.com/eatsleepedge/"><img src="https://github.com/tojifg/tojifg/blob/4e3a5bbf5c93fc2ff7bf81e09a5b348a7cf0fd01/cati.svg"></img></a>
 <br>
   fixing these later: 
   <br> <a href="https://github.com/basementjazz/">義理の兄</a>⠀<a href="https://github.com/blackbetta/">kyS</a>⠀<a href="https://github.com/vampaku/">manshed</a> ⠀<a href="https://github.com/deepaffection/">老婆</a>
