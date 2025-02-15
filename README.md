@@ -1,8 +1,8 @@
 <h5 align="center">
-<a href="https://rentry.co/chiryu"><img src="https://github.com/user-attachments/assets/f7ad7b0e-35c3-4ed3-9b6d-7c8fa5f0ab23" width="350" height="auto"></img></a><br><br>
-<img src="https://komarev.com/ghpvc/?username=tojifg&color=f53b60&plastic&label=⠀红包+COUNT⠀:&base=1000000000"></img>
+<a href="https://rentry.co/sit"><img src="https://github.com/user-attachments/assets/a8fb3f70-65c3-4a0c-ab8b-558d3bb8e737" width="350" height="auto"></img></a><br><br>
+<img src="https://komarev.com/ghpvc/?username=tojifg&color=ce49ce&plastic&label=⠀BEAUTY+COUNT⠀:&base=1000000000"></img>
 <br><br>
-⠀⠀<img src="https://github.com/user-attachments/assets/436d6fed-6a72-486c-af34-e54a837c59cd"width="240" height="auto"></img>
+⠀⠀<img src="https://github.com/user-attachments/assets/8428a8d8-6349-4db9-a650-f9bd2ac6997b"width="240" height="auto"></img>
 <br>
 <img src="https://github.com/user-attachments/assets/d6f72e64-323f-4430-8686-5e5285f7f4ca" width="220" height= "5"><br><br>
   
