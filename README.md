@@ -1,3 +1,5 @@
+<br><br><br><br><br><br><br><br><br><br>
+
 <h5 align="left">
 <img src="https://github.com/user-attachments/assets/d65cd818-2fc3-4150-9571-a73c3679f1fe" width="175" height="300" align="left"></img>
 <a href="https://rentry.co/sit"><img src="https://files.catbox.moe/74r2si.png" width="235" height="auto" align="left"></img></a>⠀<img src="https://komarev.com/ghpvc/?username=tojifg&color=ff66b9&plastic&label=⠀BEAUTY+COUNT⠀:&base=1000000000"></img>
@@ -12,4 +14,4 @@
   <br><br><a href="https://github.com/Ivanvtill/">opps got him</a>⠀<a href="https://github.com/9THNINJA/">ray</a> hei enigma..
   <br><a href="https://github.com/junkshot/">last braincell¹</a> EGO <a href="https://github.com/momoayase/">side hustle²</a> <br>UNCERTAINTY <a href="https://github.com/moonchef/">fallen off³</a>
 </h5>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
