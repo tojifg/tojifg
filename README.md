@@ -14,4 +14,8 @@
   <br><a href="https://github.com/Ivanvtill/">opps got him</a>⠀<a href="https://github.com/9THNINJA/">ray</a> hei enigma..
   <br><br><a href="https://github.com/junkshot/">last braincell¹</a> EGO <a href="https://github.com/momoayase/">side hustle²</a> <br>UNCERTAINTY <a href="https://github.com/moonchef/">fallen off³</a>
 </h5>
+<h6 align="center">
+<br>
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=veniselim2008&cover_image=true&theme=natemoo-re&show_offline=false&background_color=ffffff&interchange=false&bar_color=ff6bc1&bar_color_cover=false"></img>
+</h6>
 <br><br><br><br><br><br><br><br><br><br>
