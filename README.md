@@ -10,7 +10,7 @@
 <a href="https://github.com/basementjazz/"><img src="https://github.com/tojifg/tojifg/blob/25072e0ddb637f154b46fd8a017a87a608de4f22/zack.svg"></img></a> ⠀<a href="https://github.com/blackbetta/"><img src="https://github.com/tojifg/tojifg/blob/2ab69daae382ff78e3a5513417db8f92b0fdb144/ky.svg"></a> ⠀ <a href="https://github.com/vampaku/"><img src="https://github.com/tojifg/tojifg/blob/f43dd3bcb10a025986a0aba998ae75fd30c0fa9e/marsh.svg"></img></a> ⠀ <a href="https://github.com/deepaffection/"><img src="https://github.com/tojifg/tojifg/blob/3f10a7913f9c9c6ba8e4e074098b8e497d5d051d/shig.svg"></img></a> ⠀ <a href="https://github.com/fuziyamas/"><img src="https://github.com/tojifg/tojifg/blob/16f760e6ab3e9bcd2d4a8dc7a162435c3a6f445c/fuzi.svg"></img></a> ⠀ <a href="https://github.com/P5royal/"><img src="https://github.com/tojifg/tojifg/blob/b7a1fd3e0ee34013ed812b1ed5e72a46237dab02/reo.svg"></img></a>
 <br><a href="https://github.com/njqh/"><img src="https://github.com/tojifg/tojifg/blob/6a1fb57e6403b252aaa2f1fd9f3ad354218858e3/night.svg"></img></a> ⠀ <a href="https://github.com/LoveCrime/"><img src="https://github.com/tojifg/tojifg/blob/953808d4c1af5ddd975eaaf6ac8a2b94f778489b/scar.svg"></img></a> 
 
-  <br><a href="https://github.com/Ivanvtill/">shot down</a>⠀<a href="https://github.com/9THNINJA/">ray</a> hei enigma..
+  <br><a href="https://github.com/9THNINJA/">ray</a> hei enigma..
   <br><a href="https://github.com/junkshot/">last braincell¹</a> EGO <a href="https://github.com/momoayase/">side hustle²</a> <br>UNCERTAINTY <a href="https://github.com/moonchef/">fallen off³</a>
 </h5>
 <br><br><br><br><br>
