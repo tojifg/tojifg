@@ -1,6 +1,6 @@
 <br><br>
 <h4 align="center">
-  <img src="https://github.com/user-attachments/assets/d6c14e2e-1a9f-4eeb-9e02-a834e21ac484" width="300" height="auto"></img>
+  <img src="https://github.com/user-attachments/assets/644be6e5-08f3-4868-a4bb-abf8b439e507 width="300" height="auto"></img>
 </h4>
 
 <h5 align="left">
