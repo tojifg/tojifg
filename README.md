@@ -6,7 +6,9 @@
   <br><br> <img src="https://github.com/user-attachments/assets/d65cd818-2fc3-4150-9571-a73c3679f1fe" width="2" height="2" align="left"><img src="https://files.catbox.moe/9skef3.png"width="200" height="auto" align="left"></img>
 <br><br><br><br><br><br>
 <img src="https://github.com/user-attachments/assets/d65cd818-2fc3-4150-9571-a73c3679f1fe" width="2" height="2" align="left"><img src="https://files.catbox.moe/gny306.png" width="200" height= "5" align="left"><br><br>
-  
+
+  <img src="https://github.com/user-attachments/assets/d5f97bab-6aba-42d8-95eb-085e9f60fc62" width="8" height="100" align="left"></img>
+
   <img src="https://github.com/user-attachments/assets/d65cd818-2fc3-4150-9571-a73c3679f1fe" width="2" height="2" align="left"><a href="https://github.com/bathroombreak/"><img src="https://github.com/tojifg/tojifg/blob/dcfb20e44eba97144a497a6495436283486e6af6/harvey.svg"></img></a> ⠀ <a href="https://github.com/9ANTZ/"><img src="https://github.com/tojifg/tojifg/blob/acaa5dfc48bfbc9cbd34b392f8471016c1cb876b/hc.svg"></img></a> ⠀ <a href="https://github.com/10shadows/"><img src="https://github.com/tojifg/tojifg/blob/acaa5dfc48bfbc9cbd34b392f8471016c1cb876b/khoi.svg"></img></a> ⠀ <a href="https://github.com/eatsleepedge/"><img src="https://github.com/tojifg/tojifg/blob/acaa5dfc48bfbc9cbd34b392f8471016c1cb876b/cati.svg"></img></a>
   <br> <a href="https://github.com/basementjazz/">姐夫</a>⠀<a href="https://github.com/blackbetta/">kyS</a>⠀<a href="https://github.com/vampaku/">manshed</a> ⠀<a href="https://github.com/deepaffection/">老婆</a>
   <br><a href="https://github.com/Ovrpheus/">orvph</a> ⠀<a href="https://github.com/fuziyamas/">fuzay</a> ⠀<a href="https://github.com/njqh/">gudnight</a>⠀<a href="https://github.com/P5royal/">oreo</a>
