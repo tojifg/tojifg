@@ -4,6 +4,13 @@
      xmlns:xlink="http://www.w3.org/1999/xlink"
      width="55" height="15"
 >
+       <style>
+    text {
+       font-family: "Cute Font", sans-serif;
+     font-weight: 400;
+       font-style: normal;
+    }
+  </style>
   <text font-size="16" x="0" y="13">
     <tspan fill="#ff66b9">KHOI鱼</tspan>
   </text>
