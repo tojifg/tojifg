@@ -1,7 +1,7 @@
 <br><br><br><br><br><br><br><br><br>
 
 <h5 align="left">
-<img src="https://github.com/user-attachments/assets/d65cd818-2fc3-4150-9571-a73c3679f1fe" width="130" height="440" align="left"></img> <img src="https://komarev.com/ghpvc/?username=tojifg&color=FF6761&plastic&label=⠀FAN+COUNT⠀:&base=1000000000"></img><br>
+<img src="https://github.com/user-attachments/assets/d65cd818-2fc3-4150-9571-a73c3679f1fe" width="120" height="440" align="left"></img> <img src="https://komarev.com/ghpvc/?username=tojifg&color=FF6761&plastic&label=⠀FAN+COUNT⠀:&base=1000000000"></img><br>
 <img src="https://github.com/user-attachments/assets/e5ae198f-3607-485c-9782-e8c822b2ac60" width="auto" height="150" align="left"></img><br><br><br><br><br><br><br>
 <img src="https://github.com/user-attachments/assets/d65cd818-2fc3-4150-9571-a73c3679f1fe" width="50" height="2" align="left">
   <br><br> <img src="https://github.com/user-attachments/assets/d65cd818-2fc3-4150-9571-a73c3679f1fe" width="1" height="2" align="left"> <a href="https://rentry.co/trendsetter"><img src="https://github.com/user-attachments/assets/2fbfc8b7-7381-4ea1-a5d3-507e874d9fc6" width="125" height="auto" align="left"></img></a> <img src="https://github.com/user-attachments/assets/d65cd818-2fc3-4150-9571-a73c3679f1fe" width="1" height="1" align="left"> <a href="https://toji.atabook.org"><img src="https://github.com/user-attachments/assets/95d10f49-586b-40e3-b25b-21cd90424db8" width="60" height="auto" align="left"></img></a><br><br><br>
