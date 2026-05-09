@@ -2,7 +2,7 @@
 <h5 align="left">
 <img src="https://github.com/user-attachments/assets/d65cd818-2fc3-4150-9571-a73c3679f1fe" width="120" height="auto" align="left">
 <img src="https://github.com/user-attachments/assets/92a7dd79-6922-4d11-8fe7-8a07cd08d486" width="190" height="auto" align="left">
-<img src="https://github.com/user-attachments/assets/7fe8f43b-91ef-4e6b-b7c7-2aa156786fcc" width="90" height="auto" align="left"><br><br><br>
+<img src="https://github.com/user-attachments/assets/7fe8f43b-91ef-4e6b-b7c7-2aa156786fcc" width="80" height="auto" align="left"><br><br><br>
 <a href="https://rentry.co/cabletie"><img src="https://github.com/user-attachments/assets/f2d95528-9a18-4502-bbcd-2ad0eebdce98" width="73" height="auto" align="left" /></a><br><br><br><br>
 <a href="https://rentry.co/toobad"><img src="https://github.com/user-attachments/assets/8819dfd2-d6ab-4c29-b13a-062c2801e817" width="73" height="auto" align="left" /></a><br><br><br><br><br>
 <a href="https://toji.atabook.org/"><img src="https://github.com/user-attachments/assets/985d9daf-0d8d-4189-8805-4ac5e5c77e40" width="73" height="auto" align="left" /></a>
