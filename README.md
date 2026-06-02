@@ -1,8 +1,9 @@
 <br><br><br>
 <h5 align="center">
-  <img src="https://file.garden/aVPSkoC0BH5GKgbM/FEET.gif" width="500" height="auto" align="center">
+  <img src="https://github.com/user-attachments/assets/b8a475bd-edbf-4615-933f-a5d20f5e47a8" width="300" height="auto" align="center">
 </h5>
 <br><br><br>
+
 <h5 align="left">
 <img src="https://github.com/user-attachments/assets/d65cd818-2fc3-4150-9571-a73c3679f1fe" width="130" height="auto" align="left">
 <img src="https://github.com/user-attachments/assets/7a643121-29cc-49fc-94aa-4acab91b8680" width="190" height="auto" align="left">
