@@ -7,6 +7,12 @@
 <a href="https://rentry.co/dny"><img width="150" height="auto" alt="rentry" src="https://github.com/user-attachments/assets/46c3a373-bdba-4fe8-b30e-ed1cf05297fe"/></a> $${\space \space \space \space \space }$$ <a href="https://toji.atabook.org/"><img width="75" height="auto" alt="ata" src="https://github.com/user-attachments/assets/15ac9103-7962-42c4-b736-bbc8dbd9b582"/></a> $${\space \space \space \space \space }$$ <a href="https://rentry.co/toobad"><img width="175" height="auto" alt="district" src="https://github.com/user-attachments/assets/2878c3d7-7a87-4aae-a145-2953fb3d8bb5"/></a> <br>
   </td>
 </table>
+  <details align="center">
+      <summary>friends</summary>
+          <h5 align="center">
+             <p>Hi</p>
+          </h5>
+ </details>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
   <details align="center">
