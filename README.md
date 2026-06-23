@@ -1,4 +1,4 @@
-<br><br><br>
+<br><br>
 
 <table align="center">
   <td>
@@ -16,7 +16,7 @@
           </p>
  </details>
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
   <details align="center">
       <summary>Feet</summary>
           <h5 align="center">
