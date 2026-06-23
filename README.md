@@ -1,18 +1,12 @@
 <br><br><br><br>
 
-<h5 align="left">
-<img src="https://github.com/user-attachments/assets/d65cd818-2fc3-4150-9571-a73c3679f1fe" width="130" height="auto" align="left">
-<img src="https://github.com/user-attachments/assets/f79a212c-a436-4642-a9b4-4ccfe2c81682" width="190" height="auto" align="left">
-<img src="https://github.com/user-attachments/assets/7fe8f43b-91ef-4e6b-b7c7-2aa156786fcc" width="80" height="auto" align="left"><br><br><br><br>
-<a href="https://rentry.co/cabletie"><img src="https://github.com/user-attachments/assets/2949edc8-2e3e-466b-9823-a35b436ab0dd" width="73" height="auto" align="left" /></a><br><br><br><br>
-<a href="https://rentry.co/toobad"><img src="https://github.com/user-attachments/assets/aebb1f2d-6451-4ea5-92c9-b3c6ad8146c3" width="73" height="auto" align="left" /></a><br><br><br><br>
-<a href="https://toji.atabook.org/"><img src="https://github.com/user-attachments/assets/2870c2bb-9f9b-4cce-9727-b15cba251952" width="73" height="auto" align="left" /></a>
+<table align="center">
+  <td>
+<img width="15" height="auto" alt="blue" src="https://github.com/user-attachments/assets/dfb8f3d7-f7e2-4891-805c-f448f8a88422"/> <img width="15" height="auto" alt="red" src="https://github.com/user-attachments/assets/15af0278-09ed-4e70-96ff-fee345eb3fae" /> <img width="15" height="auto" alt="orange" src="https://github.com/user-attachments/assets/aa2b486b-4b1c-4445-9cb0-6ecc7c7bd5fc"/> <img src="https://komarev.com/ghpvc/?username=tojifg&style=flat-square&color=8E9D8F&label=⠀KILL+COUNT⠀:&base=1000000000" align="right"> $${\space \space \space \space \space \space \space \space \space \space \space \space \space \space \space \space \space \space \space \space \space \space \space \space \space \space \space \space \space \space \space \space \space \space \space \space \space \space \space \space \space \space \space \space \space \space \space \space}$$ <br><br>
+<a href="https://rentry.co/dny"><img width="150" height="auto" alt="rentry" src="https://github.com/user-attachments/assets/46c3a373-bdba-4fe8-b30e-ed1cf05297fe"/></a> $${\space \space \space \space \space }$$ <a href="https://toji.atabook.org/"><img width="75" height="auto" alt="ata" src="https://github.com/user-attachments/assets/15ac9103-7962-42c4-b736-bbc8dbd9b582"/></a> $${\space \space \space \space \space }$$ <a href="https://rentry.co/toobad"><img width="175" height="auto" alt="district" src="https://github.com/user-attachments/assets/2878c3d7-7a87-4aae-a145-2953fb3d8bb5"/></a> <br>
+  </td>
+</table>
 
-  <br><br><br><br><br><br>
-  <img src="https://komarev.com/ghpvc/?username=tojifg&color=A2DBDB&plastic&label=⠀ORB+COUNT⠀:&base=1000000000" align="left">
-  
-  <br></a>
-</h5>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
   <details align="center">
       <summary>Feet</summary>
