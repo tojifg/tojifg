@@ -8,7 +8,7 @@
   </td>
 </table>
   <details align="center">
-      <summary> ⠀°‧ 𓆝 ·˙○˚ ── · · · · · · · · · · · · ·⠀friends⠀ · · · · · · · · · · · · · ──⟢</summary>
+      <summary> ⠀°‧ 𓆝 ·˙○˚ ── · · · · · · · · · ·⠀friends⠀ · · · · · · · · · · ──⟢</summary>
           <p align="center">
              <a href="https://github.com/deepaffection">deepaffection</a>⠀⠀<a href="https://github.com/blackbetta">blackbetta</a>⠀⠀<a href="https://github.com/vampaku">vampaku</a>⠀⠀<a href="https://github.com/fuziyamas">fuziyamas</a>⠀⠀<a href="https://github.com/methodreal">methodreal</a><br>
             <a href="https://github.com/rerir">rerir</a> big Bot⠀⠀<a href="https://github.com/smopkins">smopkins</a>⠀⠀<a href="https://github.com/cfluixon">cfluixon</a>⠀⠀<a href="https://github.com/tirgery123">tirgery123</a> licks*⠀⠀<a href="https://github.com/LoveCrime">LoveCrime</a><br>
