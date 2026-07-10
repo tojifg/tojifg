@@ -1,4 +1,6 @@
 <br><br><br>
+
+<p align="center">close before opening the next box</p>
 <table align="center" border="0" cellpadding="10">
   <tr>
       <!-- One -->
