@@ -30,8 +30,8 @@
         <!-- Three -->
         <td valign="top">
           <details align="center"><summary>← <img width="19" height="auto" alt="3" src="https://github.com/user-attachments/assets/cd1d776c-b68e-4b5d-a528-f8bfb84dcd2a" /></summary>
+            <br><br>
     <details align="center">
-      <br><br>
         <summary>feet ♡</summary>
             <h5 align="center">
                 <img src="https://github.com/user-attachments/assets/b8a475bd-edbf-4615-933f-a5d20f5e47a8" width="300" height="auto" align="center">
