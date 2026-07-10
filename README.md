@@ -44,4 +44,7 @@
         </td>
     </tr>
 </table>
+<p align="center">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=veniselim2008&cover_image=true&theme=natemoo-re&show_offline=false&background_color=ffffff&interchange=true&profanity=false&hide_remaster=false&bar_color=e42f4a&bar_color_cover=false" width="250" height="auto">
+</p>
 <br><br><br>
