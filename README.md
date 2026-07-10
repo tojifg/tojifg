@@ -16,6 +16,7 @@
     <!-- Two -->
         <td valign="top">
           <details align="center"><summary>← <img width="19" height="auto" alt="2" src="https://github.com/user-attachments/assets/a00aa62e-8a67-4bc6-ad6a-0e17106e01b5"/></summary>
+            <br><br>
             <details>
             <summary>←── <img width="250" height="auto" alt="click for friends" src="https://github.com/user-attachments/assets/e206c733-67a1-475c-b141-4eb1bb4f0a24" /></summary>
               <p align="center">
@@ -30,6 +31,7 @@
         <td valign="top">
           <details align="center"><summary>← <img width="19" height="auto" alt="3" src="https://github.com/user-attachments/assets/cd1d776c-b68e-4b5d-a528-f8bfb84dcd2a" /></summary>
     <details align="center">
+      <br><br>
         <summary>feet ♡</summary>
             <h5 align="center">
                 <img src="https://github.com/user-attachments/assets/b8a475bd-edbf-4615-933f-a5d20f5e47a8" width="300" height="auto" align="center">
