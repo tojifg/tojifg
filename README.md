@@ -11,8 +11,9 @@
             <summary>←── <img width="250" height="auto" alt="click for friends" src="https://github.com/user-attachments/assets/e206c733-67a1-475c-b141-4eb1bb4f0a24" /></summary>
               <p align="center">
                  <a href="https://github.com/deepaffection">deepaffection</a>⠀⠀<a href="https://github.com/blackbetta">blackbetta</a>⠀⠀<a href="https://github.com/vampaku">vampaku</a>⠀⠀<a href="https://github.com/fuziyamas">fuziyamas</a>⠀⠀<a href="https://github.com/methodreal">methodreal</a><br>
-                <a href="https://github.com/rerir">rerir</a> big Bot⠀⠀<a href="https://github.com/smopkins">smopkins</a>⠀⠀<a href="https://github.com/cfluixon">cfluixon</a>⠀⠀<a href="https://github.com/tirgery123">tirgery123</a> licks*⠀⠀<a href="https://github.com/LoveCrime">LoveCrime</a><br>
-                <a href="https://github.com/b0imkht">b0imkht</a> hi tea i love you!!!^q^⠀⠀<a href="https://github.com/timebattle">timebattle</a> goated oomf ⠀+ whyworld and more
+                <a href="https://github.com/rerir">rerir</a> big Bot⠀⠀<a href="https://github.com/smopkins">smopkins</a>⠀⠀<a href="https://github.com/cfluixon">cfluixon</a>/<a href="https://github.com/trody">trody</a>⠀⠀<a href="https://github.com/tirgery123">tirgery123</a> licks and snuggles*<br>
+                <a href="https://github.com/LoveCrime">LoveCrime</a>⠀⠀<a href="https://github.com/b0imkht">b0imkht</a> hi tea i love you!!!^q^⠀⠀<a href="https://github.com/timebattle">timebattle</a> goated oomf
+                <br> + whyworld and more
             </p>
           </details>
           </details>
