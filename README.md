@@ -27,7 +27,7 @@
                  <br>↑ hi i love you!^q^<br><br>
                  <a href="https://github.com/timebattle">timebattle</a><br>
                   ↑goated oomf<br>
-                 <br> + whyworld and more
+                 <br> + whyworld & more
             </p>
   </details>
     </td>
