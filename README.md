@@ -6,21 +6,21 @@
 <img width="300" height="auto" alt="image" src="https://github.com/user-attachments/assets/39b795b4-9bc3-43ce-a369-be75535a02ea" />
   <br><br>
 <table>
-  <td>
+  <td valign="top">
   <details>
     <summary>1</summary>
     hey
   </details>
     </td>
   
-  <td>
+  <td valign="top">
   <details>
     <summary>2</summary>
     hey
   </details>
   </td>
 
-  <td>
+  <td valign="top">
   <details>
     <summary>3</summary>
     hey
