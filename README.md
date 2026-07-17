@@ -1,4 +1,4 @@
-<br><br><br>
+<br><br>
 
 <h5 align="center">
 <img src="https://komarev.com/ghpvc/?username=tojifg&style=flat-square&color=E0C079&label=⠀NEUTRALISED+COUNT⠀:&base=1000000000" align="center"> 
@@ -62,4 +62,4 @@
 </table>
  <img src="images/marquee.svg" width="300" height="auto" title="忍び難き胡蝶の夢弛まん またいばら道 我が意を得たり THIS IS WHY JUST MOVE IT ON" alt="song lyrics"/>
 </h5>
-<br><br><br>
+<br><br>
