@@ -10,7 +10,25 @@
   <details>
     <summary>⠀←⠀ <img width="10" height="auto" alt="image" src="https://github.com/user-attachments/assets/4253ebb6-eb70-4cd8-b1e8-248f94bf30d3" />⠀⠀
 </summary>
-    hey
+              <p align="center">
+                 <br>
+                 <a href="https://github.com/deepaffection">deepaffection</a><br>
+                 <a href="https://github.com/blackbetta">blackbetta</a><br>
+                 <a href="https://github.com/vampaku">vampaku</a><br>
+                 <a href="https://github.com/fuziyamas">fuziyamas</a><br>
+                 <a href="https://github.com/methodreal">methodreal</a><br>
+                 <a href="https://github.com/rerir">rerir</a> big Bot<br>
+                 <a href="https://github.com/smopkins">smopkins</a><br>
+                 <a href="https://github.com/cfluixon">cfluixon</a>/<a href="https://github.com/trody">trody</a><br>
+                 <a href="https://github.com/tirgery123">tirgery123</a><br>
+                 ↑ licks & snuggles*<br><br>
+                 <a href="https://github.com/LoveCrime">LoveCrime</a><br>
+                 <a href="https://github.com/b0imkht">b0imkht</a>
+                 <br>↑ hi i love you!^q^<br><br>
+                 <a href="https://github.com/timebattle">timebattle</a><br>
+                  ↑goated oomf<br>
+                 <br> + whyworld and more
+            </p>
   </details>
     </td>
   
