@@ -37,11 +37,11 @@
     <summary>⠀←⠀ <img width="13" height="auto" alt="image" src="https://github.com/user-attachments/assets/dff13d91-88e4-4e23-b8f4-a4fe70d2b27f" />⠀⠀
 </summary>
     <br>
-    <img width="100" height="auto" alt="image" src="https://github.com/user-attachments/assets/0557ea2a-9244-4f34-8c38-660499600679" /><br>
+    <a href="https://rentry.co/mechaboy/"><img width="100" height="auto" alt="image" src="https://github.com/user-attachments/assets/0557ea2a-9244-4f34-8c38-660499600679" /></a><br>
     <img width="100" height="auto" alt="image" src="https://github.com/user-attachments/assets/edfd6195-a8b1-45e6-8fce-376f892684db" /><br>
-    <img width="100" height="auto" alt="image" src="https://github.com/user-attachments/assets/4ba7151e-2b3f-4acf-a4b7-1fa3fe89d68c" /><br>
-    <img width="100" height="1" alt="image" src="https://github.com/user-attachments/assets/87e943e3-806a-4155-ac38-9f893a0d7b2b" /><br>
-    <img width="100" height="auto" alt="image" src="https://github.com/user-attachments/assets/d24568d5-c857-42bd-95df-4268e1dc4e9f" />
+    <a href="https://toji.atabook.org/"><img width="100" height="auto" alt="image" src="https://github.com/user-attachments/assets/4ba7151e-2b3f-4acf-a4b7-1fa3fe89d68c" /></a><br>
+    +<br>
+    <a href="https://tojifg.straw.page/"><img width="100" height="auto" alt="image" src="https://github.com/user-attachments/assets/d24568d5-c857-42bd-95df-4268e1dc4e9f" /></a>
 
 
   </details>
