@@ -51,7 +51,12 @@
   <details>
     <summary>⠀←⠀ <img width="13" height="auto" alt="image" src="https://github.com/user-attachments/assets/5d813676-e47c-4c2f-b225-590c139bc67f" />⠀⠀
 </summary>
-    hey
+    <br>
+        <details align="center">
+        <summary>feet ♡</summary>
+          <br>
+                <img src="https://github.com/user-attachments/assets/b8a475bd-edbf-4615-933f-a5d20f5e47a8" width="100" height="auto" align="center">
+            </details>
   </details>
   </td>
 </table>
