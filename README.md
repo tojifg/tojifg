@@ -60,6 +60,6 @@
   </details>
   </td>
 </table>
- <img src="images/marquee.svg" width="300" height="auto" />
+ <img src="images/marquee.svg" width="300" height="auto" title="忍び難き胡蝶の夢弛まん またいばら道 我が意を得たりTHIS IS WHY JUST MOVE IT ON" alt="song lyrics"/>
 </h5>
 <br><br><br>
