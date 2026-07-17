@@ -34,7 +34,7 @@
   
   <td valign="top">
   <details>
-    <summary>⠀←⠀ <img width="13" height="auto" alt="image" src="https://github.com/user-attachments/assets/dff13d91-88e4-4e23-b8f4-a4fe70d2b27f" />⠀⠀
+    <summary>⠀←⠀ <img width="12" height="auto" alt="image" src="https://github.com/user-attachments/assets/dff13d91-88e4-4e23-b8f4-a4fe70d2b27f" />⠀⠀
 </summary>
     <br>
     <a href="https://rentry.co/mechaboy/"><img width="100" height="auto" alt="image" src="https://github.com/user-attachments/assets/0557ea2a-9244-4f34-8c38-660499600679" /></a><br>
