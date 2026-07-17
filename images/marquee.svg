@@ -1,0 +1,42 @@
+<svg viewBox="0 0 800 90" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <style>
+    .marquee {
+      animation: scroll 5s linear infinite;
+      font-family:Alike;
+      font-size:18px;
+      font-weight:400;
+      fill:%236D3D3E;
+      stroke:%23E6CC8E;
+      stroke-width:1;
+      paint-order:stroke fill;
+      transform-box:view-box;
+    }
+
+    @keyframes scroll {
+      0% {
+        transform: translateX(100%);
+      }
+      100% {
+        transform: translateX(-100%);
+      }
+    }
+  </style>
+
+  <defs>
+    <path id="marqueePath" d="M 0,50 H 1600" />
+  </defs>
+
+  <g class="marquee">
+    <!-- change width and height to dimensions of picture -->
+    <text x='0' y='20' text-anchor='start'>
+     忍び難き胡蝶の夢弛まん
+    <text x='0' y='20' text-anchor='start'>
+     またいばら道 我が意を得たり
+    <text x='0' y='20' text-anchor='start'>
+     THIS IS WHY JUST MOVE IT ON%21
+    </text>
+    <!-- continue this with the previous x. 160+160=320. if u add another image, 320+160=480. repeat -->
+ <!-- add more images here if desired-->
+  </g>
+  
+</svg>
