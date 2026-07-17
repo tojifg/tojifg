@@ -8,25 +8,27 @@
 <table align="center">
   <td valign="top">
   <details>
-    <summary>1</summary>
+    <summary>⠀←⠀ <img width="10" height="auto" alt="image" src="https://github.com/user-attachments/assets/4253ebb6-eb70-4cd8-b1e8-248f94bf30d3" />⠀⠀
+</summary>
     hey
   </details>
     </td>
   
   <td valign="top">
   <details>
-    <summary>2</summary>
+    <summary>⠀←⠀ <img width="13" height="auto" alt="image" src="https://github.com/user-attachments/assets/dff13d91-88e4-4e23-b8f4-a4fe70d2b27f" />⠀⠀
+</summary>
     hey
   </details>
   </td>
 
   <td valign="top">
   <details>
-    <summary>3</summary>
+    <summary>⠀←⠀ <img width="13" height="auto" alt="image" src="https://github.com/user-attachments/assets/5d813676-e47c-4c2f-b225-590c139bc67f" />⠀⠀
+</summary>
     hey
   </details>
   </td>
 </table>
 </h5>
-
 <br><br><br>
