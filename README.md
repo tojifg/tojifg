@@ -60,5 +60,6 @@
   </details>
   </td>
 </table>
+ <img src="images/marquee.svg" width="300" height="auto" />
 </h5>
 <br><br><br>
