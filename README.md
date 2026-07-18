@@ -52,6 +52,18 @@
     <summary>⠀←⠀ <img width="13" height="auto" alt="image" src="https://github.com/user-attachments/assets/5d813676-e47c-4c2f-b225-590c139bc67f" />⠀⠀
 </summary>
     <br>
+      <p>I tend to joke lots<br>
+      not serious much..<br>
+      <b>Int freely,</b><br>
+      c+h friendly<br>
+      I <3 new friends!<br>
+      <b>Any1 can interact,</b><br>
+      I block freely :P<br>
+      <b>I'm not unc plz</b><br><br>
+      Limit flirting<br>
+      if <16
+      </p>
+      <br>
         <details align="center">
         <summary>feet ♡</summary>
           <br>
