@@ -10,6 +10,7 @@
   <details>
     <summary>⠀←⠀ <img width="10" height="auto" alt="image" src="https://github.com/user-attachments/assets/4253ebb6-eb70-4cd8-b1e8-248f94bf30d3" />⠀⠀
 </summary>
+        <br>
     <a href="https://rentry.co/mechaboy/"><img width="100" height="auto" alt="image" src="https://github.com/user-attachments/assets/f9aea0ed-7fce-4428-a19c-28dc507c3efe" /></a><br>
     <img width="100" height="auto" alt="image" src="https://github.com/user-attachments/assets/edfd6195-a8b1-45e6-8fce-376f892684db" /><br>
     <a href="https://toji.atabook.org/"><img width="100" height="auto" alt="image" src="https://github.com/user-attachments/assets/4ba7151e-2b3f-4acf-a4b7-1fa3fe89d68c" /></a><br>
