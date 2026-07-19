@@ -52,8 +52,8 @@
                   <p align="center">
                  <br>
                  RIP <a href="https://github.com/fushiguro-toji">fushiguro-toji</a><br>
-                 ↑ u were known.. <br>
-                  u were me..<br><br>
+                 ↑ my dead & known<br>
+                 alter ego<br><br>
                  <a href="https://github.com/deepaffection">deepaffection</a><br>
                  <a href="https://github.com/blackbetta">blackbetta</a><br>
                  <a href="https://github.com/vampaku">vampaku</a><br>
