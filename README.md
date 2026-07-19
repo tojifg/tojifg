@@ -51,7 +51,8 @@
 </summary>
                   <p align="center">
                  <br>
-                 RIP <a href="https://github.com/fushiguro-toji">fushiguro-toji</a><br><br>
+                 RIP <a href="https://github.com/fushiguro-toji">fushiguro-toji</a><br>
+                 ↑u were known.. u were me.. <br><br>
                  <a href="https://github.com/deepaffection">deepaffection</a><br>
                  <a href="https://github.com/blackbetta">blackbetta</a><br>
                  <a href="https://github.com/vampaku">vampaku</a><br>
