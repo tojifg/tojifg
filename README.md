@@ -39,7 +39,8 @@
         <details align="center">
         <summary>feet ♡</summary>
           <br>
-                <img src="https://github.com/user-attachments/assets/b8a475bd-edbf-4615-933f-a5d20f5e47a8" width="100" height="auto" align="center">
+                <img src="https://file.garden/aVPSkoC0BH5GKgbM/feet.gif" width="300" height="auto" align="center"><br>
+                <img src="https://file.garden/aVPSkoC0BH5GKgbM/blunt.jpg" width="300" height="auto" align="center">
             </details>
 
   </details>
