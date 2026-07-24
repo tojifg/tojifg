@@ -70,6 +70,7 @@
                  <br>↑ hi i love you!^q^<br><br>
                  <a href="https://github.com/timebattle">timebattle</a><br>
                   ↑goated oomf<br>
+                 <a href="https://github.com/foolingrats">foolingrats</a><br>
                  <br> + whyworld & more
             </p>
   </details>
