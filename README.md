@@ -13,7 +13,7 @@
 <a href="https://rentry.co/yakuzaboss/"><img width="96" height="auto" alt="image" src="https://github.com/user-attachments/assets/39e4974a-dffb-4773-be5b-526afa264d1c" /></a>
   </td>
     </table>
-<br/><br/>
+<br/>
 <details>
   <summary>⠀<img width="30" height="auto" alt="image" src="https://github.com/user-attachments/assets/cf60e0ed-83c1-4d2b-974f-5de134bc160a" /></summary>
   <br/>
