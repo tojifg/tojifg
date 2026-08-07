@@ -46,4 +46,5 @@
             </p>
     </td></tr></caption></table>
   </details>
+                   <br/>
   </h5>
