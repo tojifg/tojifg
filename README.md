@@ -4,15 +4,24 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=tojifg&style=flat-square&color=E0C079&label=⠀SEASHELLS+FOUND⠀:&base=1000000000"> 
 </p>
+<br/>
+<img width="300" height="auto" alt="links" src="https://github.com/user-attachments/assets/c8119ed0-44d0-4beb-94e8-798da4ee8c69" />
+<br/>
+<a href="https://rentry.co/mechaboy"><img width="96" height="auto" alt="image" src="https://github.com/user-attachments/assets/fc980e62-75ed-4808-a716-510275eb0f0b" /></a>
+<a href="https://toji.atabook.org/"><img width="96" height="auto" alt="image" src="https://github.com/user-attachments/assets/097c1f42-d1f9-4a87-a5dc-ddc74f2673e1" /></a>
+<a href="https://rentry.co/yakuzaboss/"><img width="96" height="auto" alt="image" src="https://github.com/user-attachments/assets/39e4974a-dffb-4773-be5b-526afa264d1c" /></a>
 <br/><br/>
-<a href="https://rentry.co/mechaboy">rentry</a> <a href="https://toji.atabook.org/">atabook</a> <a href="https://rentry.co/yakuzaboss">interests</a>
-  redoing...
+<details>
+  <summary>⠀<img width="30" height="auto" alt="image" src="https://github.com/user-attachments/assets/cf60e0ed-83c1-4d2b-974f-5de134bc160a" /></summary>
   <br/>
+  <table align="center"><caption>
+    <tr><td align="center">
    <p align="center">
                  <br>
                  RIP <a href="https://github.com/fushiguro-toji">fushiguro-toji</a><br>
                  ↑ my dead & known<br>
                  alter ego<br><br>
+                 < gcble 3<br><br>
                  <a href="https://github.com/deepaffection">deepaffection</a><br>
                  <a href="https://github.com/blackbetta">blackbetta</a><br>
                  <a href="https://github.com/vampaku">vampaku</a><br>
@@ -27,8 +36,11 @@
                  <a href="https://github.com/b0imkht">b0imkht</a>
                  <br>↑ hi i love you!^q^<br><br>
                  <a href="https://github.com/timebattle">timebattle</a><br>
-                  ↑goated oomf<br>
+                  ↑goated oomf<br><br>
                  <a href="https://github.com/foolingrats">foolingrats</a><br>
-                 <br> + whyworld & more
+                 <br/> + whyworld & more
+     <br/>
             </p>
+    </td></tr></caption></table>
+  </details>
   </h5>
