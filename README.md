@@ -8,9 +8,9 @@
 <img width="300" height="auto" alt="links" src="https://github.com/user-attachments/assets/c8119ed0-44d0-4beb-94e8-798da4ee8c69" />
 <br/><br/>
   <table align="center"><td>
-<a href="https://rentry.co/mechaboy"><img width="96" height="auto" alt="image" src="https://github.com/user-attachments/assets/fc980e62-75ed-4808-a716-510275eb0f0b" /></a>
-<a href="https://toji.atabook.org/"><img width="96" height="auto" alt="image" src="https://github.com/user-attachments/assets/097c1f42-d1f9-4a87-a5dc-ddc74f2673e1" /></a>
-<a href="https://rentry.co/yakuzaboss/"><img width="96" height="auto" alt="image" src="https://github.com/user-attachments/assets/39e4974a-dffb-4773-be5b-526afa264d1c" /></a>
+<a href="https://rentry.co/mechaboy"><img width="93" height="auto" alt="image" src="https://github.com/user-attachments/assets/fc980e62-75ed-4808-a716-510275eb0f0b" /></a>⠀
+<a href="https://toji.atabook.org/"><img width="93" height="auto" alt="image" src="https://github.com/user-attachments/assets/097c1f42-d1f9-4a87-a5dc-ddc74f2673e1" /></a>⠀
+<a href="https://rentry.co/yakuzaboss/"><img width="93" height="auto" alt="image" src="https://github.com/user-attachments/assets/39e4974a-dffb-4773-be5b-526afa264d1c" /></a>
   </td>
     </table>
 <br/>
