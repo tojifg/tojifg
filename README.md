@@ -4,6 +4,11 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=tojifg&style=flat-square&color=E0C079&label=⠀SEASHELLS+FOUND⠀:&base=1000000000"> 
 </p>
+<details><summary></summary>
+  <p align="center">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=veniselim2008&cover_image=true&theme=natemoo-re&show_offline=false&background_color=ffffff&interchange=false&profanity=false&hide_remaster=true&bar_color=53b14f&bar_color_cover=true" width="300" height="auto">
+  </p>
+</details>
 <br/>
 <img width="300" height="auto" alt="image" src="https://github.com/user-attachments/assets/75dcd0bf-636e-4526-9e66-fcce599b6820" />
 <br/>
