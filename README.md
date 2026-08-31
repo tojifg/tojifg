@@ -46,7 +46,7 @@
                  <a href="https://github.com/timebattle">timebattle</a><br>
                   ↑goated oomf<br><br>
                  <a href="https://github.com/foolingrats">foolingrats</a><br>
-                 <br/> + whyworld & more
+                 <br/> & more
      <br/>
             </p>
     </td></tr></caption></table>
