@@ -31,7 +31,6 @@
                  ↑ my dead & known<br>
                  alter ego<br><br>
                  < gcble 3<br><br>
-                 <a href="https://github.com/deepaffection">deepaffection</a><br>
                  <a href="https://github.com/blackbetta">blackbetta</a><br>
                  <a href="https://github.com/vampaku">vampaku</a><br>
                  <a href="https://github.com/fuziyamas">fuziyamas</a><br>
