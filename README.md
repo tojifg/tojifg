@@ -2,7 +2,7 @@
 
 <h5 align="center">
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=tojifg&style=flat-square&color=E0C079&label=⠀SEASHELLS+FOUND⠀:&base=1000000000"> 
+<img src="https://komarev.com/ghpvc/?username=tojifg&style=flat-square&color=F77C37&label=⠀SEASHELLS+FOUND⠀:&base=1000000000"> 
 </p>
 <details><summary>♬</summary>
   <p align="center">
