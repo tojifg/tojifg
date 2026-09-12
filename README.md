@@ -44,7 +44,7 @@
                  <a href="https://github.com/timebattle">timebattle</a><br>
                   ↑goated oomf<br>
                  <br/> & more
-                   <br>
+                   <br/>
             </p>
     </td></tr></caption></table>
   </details>
