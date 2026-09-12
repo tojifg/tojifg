@@ -35,7 +35,7 @@
                  <a href="https://github.com/blackbetta">blackbetta</a><br>
                  <a href="https://github.com/vampaku">vampaku</a><br>
                  <a href="https://github.com/b0imkht">b0imkht</a>
-                 <br>↑ hi i love you!^q^<br><br>
+                 <br>↑ hi i love you!^q^<br>
                  <a href="https://github.com/foolingrats">foolingrats</a><br>
                  <a href="https://github.com/fuziyamas">fuziyamas</a><br>
                  <a href="https://github.com/methodreal">methodreal</a><br>
