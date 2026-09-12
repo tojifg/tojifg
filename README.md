@@ -29,7 +29,7 @@
                  <br>
                  RIP <a href="https://github.com/fushiguro-toji">fushiguro-toji</a><br>
                  ↑ my dead & known<br>
-                 alter ego<br><br>
+                 alter ego imy<br><br>
                  < gcble 3<br><br>
                  <a href="https://github.com/LoveCrime">LoveCrime</a><br>
                  <a href="https://github.com/blackbetta">blackbetta</a><br>
