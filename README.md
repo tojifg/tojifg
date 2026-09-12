@@ -35,7 +35,6 @@
                  <a href="https://github.com/vampaku">vampaku</a><br>
                  <a href="https://github.com/fuziyamas">fuziyamas</a><br>
                  <a href="https://github.com/methodreal">methodreal</a><br>
-                 <a href="https://github.com/rerir">rerir</a> big Bot<br>
                  <a href="https://github.com/smopkins">smopkins</a><br>
                  <a href="https://github.com/cfluixon">cfluixon</a>/<a href="https://github.com/trody">trody</a><br>
                  <a href="https://github.com/LoveCrime">LoveCrime</a><br>
