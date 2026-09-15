@@ -30,15 +30,12 @@
                  RIP <a href="https://github.com/fushiguro-toji">fushiguro-toji</a><br>
                  ↑ my dead & known<br>
                  alter ego imy<br><br>
-                 < gcble 3<br><br>
+                 < GCBLE 3<br>
+                 <a href="https://github.com/blackbetta">blackbetta</a> <a href="https://github.com/b0imkht">b0imkht</a> hi i love you!^q^<br>
+                <a href="https://github.com/foolingrats">foolingrats</a> <a href="https://github.com/methodreal">methodreal</a> + 4 <br>
                  <a href="https://github.com/LoveCrime">LoveCrime</a><br>
-                 <a href="https://github.com/blackbetta">blackbetta</a><br>
                  <a href="https://github.com/vampaku">vampaku</a><br>
-                 <a href="https://github.com/b0imkht">b0imkht</a>
-                 <br>↑ hi i love you!^q^<br>
-                 <a href="https://github.com/foolingrats">foolingrats</a><br>
                  <a href="https://github.com/fuziyamas">fuziyamas</a><br>
-                 <a href="https://github.com/methodreal">methodreal</a><br>
                  <a href="https://github.com/smopkins">smopkins</a><br>
                  <a href="https://github.com/cfluixon">cfluixon</a>/<a href="https://github.com/trody">trody</a><br>
                  <a href="https://github.com/timebattle">timebattle</a><br>
