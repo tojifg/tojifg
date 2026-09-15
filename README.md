@@ -26,7 +26,7 @@
   <table align="center"><caption>
     <tr><td align="center">
    <p align="center">
-                 <br>
+                 <img width="285" height="auto" alt="image" src="https://github.com/user-attachments/assets/f644314e-6b00-49db-9ccb-2eb0926bdb7e" /><br>
                  RIP <a href="https://github.com/fushiguro-toji">fushiguro-toji</a><br>
                  ↑ my dead & known<br>
                  alter ego imy<br><br>
