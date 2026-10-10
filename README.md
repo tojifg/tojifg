@@ -31,8 +31,8 @@
                  ↑ my dead & known<br>
                  alter ego imy<br><br>
                  < GCBLE 3<br>
-                 <a href="https://github.com/blackbetta">blackbetta</a> <a href="https://github.com/b0imkht">b0imkht</a> hi i love you!^q^<br>
-                <a href="https://github.com/foolingrats">foolingrats</a> <a href="https://github.com/methodreal">methodreal</a> + 4 <br>
+                 <a href="https://github.com/blackbetta">blackbetta</a> <a href="https://github.com/b0imkht">b0imkht</a> block<br>
+                <a href="https://github.com/foolingrats">foolingrats</a> <a href="https://github.com/methodreal">methodreal</a> ++ <br>
                  <a href="https://github.com/LoveCrime">LoveCrime</a><br>
                  <a href="https://github.com/vampaku">vampaku</a><br>
                  <a href="https://github.com/fuziyamas">fuziyamas</a><br>
