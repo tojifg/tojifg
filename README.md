@@ -7,9 +7,8 @@
   </p>
 </details>
 <br/>
-<img width="300 height="auto" alt="check me out" src="https://github.com/user-attachments/assets/1499dfdc-8661-4ecd-883b-1c3d081257b9" />
-<br/>
-<div align="center"><hr width="300" align="center"></caption></div>
+<img width="300 height="auto" alt="check me out" src="https://file.garden/aVPSkoC0BH5GKgbM/smoke.gif" />
+<br/><br/>
   <table align="center"><td>
 <a href="https://rentry.co/danny"><img width="85" height="auto" alt="image" src="https://github.com/user-attachments/assets/fc980e62-75ed-4808-a716-510275eb0f0b" /></a>⠀
 <a href="https://toji.atabook.org/"><img width="85" height="auto" alt="image" src="https://github.com/user-attachments/assets/097c1f42-d1f9-4a87-a5dc-ddc74f2673e1" /></a>⠀
