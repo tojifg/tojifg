@@ -1,9 +1,6 @@
 <br>
 
 <h5 align="center">
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=tojifg&style=flat-square&color=F77C37&label=⠀SEASHELLS+FOUND⠀:&base=1000000000"> 
-</p>
 <details><summary>♬</summary>
   <p align="center">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=veniselim2008&cover_image=true&theme=natemoo-re&show_offline=false&background_color=ffffff&interchange=false&profanity=false&hide_remaster=true&bar_color=53b14f&bar_color_cover=true" width="300" height="auto">
@@ -40,7 +37,8 @@
                  <a href="https://github.com/cfluixon">cfluixon</a>/<a href="https://github.com/trody">trody</a><br>
                  <a href="https://github.com/timebattle">timebattle</a><br>
                   ↑goated oomf<br>
-                 <br/> & more
+                 <br/> & more <br/> </br>
+                  <img src="https://komarev.com/ghpvc/?username=tojifg&style=flat-square&color=F77C37&label=⠀STRAW+HATS+FOUND⠀:&base=1000000000"> 
                    <br/><br/>
             </p>
     </td></tr></caption></table>
