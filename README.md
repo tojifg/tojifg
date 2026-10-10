@@ -7,7 +7,7 @@
   </p>
 </details>
 <br/>
-<img width="200 height="auto" alt="check me out" src="https://file.garden/aVPSkoC0BH5GKgbM/smok3.gif" />
+<img width="300 height="auto" alt="check me out" src="https://file.garden/aVPSkoC0BH5GKgbM/check.gif" />
 <br/><br/>
   <table align="center"><td>
 <a href="https://rentry.co/danny"><img width="85" height="auto" alt="image" src="https://github.com/user-attachments/assets/fc980e62-75ed-4808-a716-510275eb0f0b" /></a>⠀
