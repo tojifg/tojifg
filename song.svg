@@ -1,0 +1,29 @@
+<svg viewBox="0 0 800 90" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <style>
+    .marquee {
+      animation: scroll 5s linear infinite;
+    }
+
+    @keyframes scroll {
+      0% {
+        transform: translateX(100%);
+      }
+      100% {
+        transform: translateX(-100%);
+      }
+    }
+  </style>
+
+  <defs>
+    <path id="marqueePath" d="M 0,50 H 1600" />
+  </defs>
+
+  <g class="marquee">
+    <!-- change width and height to dimensions of picture -->
+    <g transform="scale(1.5)">
+    Hey
+    </g>
+ <!-- add more images here if desired-->
+  </g>
+  
+</svg>
