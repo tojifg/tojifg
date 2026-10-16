@@ -32,9 +32,10 @@
 <p align="justify">Teshi $\color{Red}{\textbf{or}}$ Sion $\color{Red}{\textbf{༒︎}}$ 18M En(f) 749 Ch中 Seasian En/中/Kr $\color{Red}{\textbf{Sick}}$ Designer $\color{Red}{\textbf{→}}$ Game Dev $\color{Red}{\textbf{ⓘ}}$ Dystopias Mecha Tech Action Comedy⠀♪⠀Shows <a href="https://rentry.co/yakuzaboss">✚</a>
   </p>
   </td></tr>
-</table><br/>
-<a href="https://rentry.co/teshi"><img width="50" height="auto" alt="main" src="https://file.garden/aVPSkoC0BH5GKgbM/github/main.png" /></a> <a href="https://toji.atabook.org/"><img width="50" height="auto" alt="ata" src="https://file.garden/aVPSkoC0BH5GKgbM/github/book.png"/></a> <a href="https://rentry.co/inappropriate"><img width="50" height="auto" alt="main" src="https://file.garden/aVPSkoC0BH5GKgbM/github/links.png"/></a> <a href="https://tojifg.straw.page/"><img width="50" height="auto" alt="main" src="https://file.garden/aVPSkoC0BH5GKgbM/github/straw.png"/></a>
-                    <br/>
+</table><p align="center">
+<a href="https://rentry.co/teshi"><img width="80" height="auto" alt="main" src="https://file.garden/aVPSkoC0BH5GKgbM/github/main.png" align="center"/></a> ⠀<a href="https://toji.atabook.org/"><img width="115" height="auto" alt="ata" src="https://file.garden/aVPSkoC0BH5GKgbM/github/book.png" align="center"/></a> ⠀<a href="https://rentry.co/inappropriate"><img width="95" height="auto" alt="main" src="https://file.garden/aVPSkoC0BH5GKgbM/github/links.png" align="center"/></a> ⠀<a href="https://tojifg.straw.page/"><img width="110" height="auto" alt="main" src="https://file.garden/aVPSkoC0BH5GKgbM/github/straw.png" align="center"/></a>
+                    </p>
+                       <br/>
                     <br/>
                     <br/>
   </h5>
