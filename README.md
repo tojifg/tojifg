@@ -1,7 +1,7 @@
 <br/>
 
 <h5 align="center">
-   <img width="190" height="auto" alt="hm" src="https://komarev.com/ghpvc/?username=tojifg&style=flat-square&color=F77C37&label=⠀STRAW+HATS+FOUND⠀:&base=1000000000"> <br/><br/>
+   <img width="240" height="auto" alt="Counter" src="https://komarev.com/ghpvc/?username=tojifg&style=flat-square&color=FF0000&label=⠀BOSSES+TAKEN+DOWN⠀:&base=1000000000"> <br/><br/>
 <img width="150" height="auto" alt="check me out" src="https://file.garden/aVPSkoC0BH5GKgbM/github/tojifg.gif" /> <img width="310" height="auto" alt="music" src="https://file.garden/aVPSkoC0BH5GKgbM/github/music.gif"/><br/>
 <table align="center">
   <tr><td align="center">
