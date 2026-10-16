@@ -12,8 +12,7 @@
    <p align="center">
                  <img width="210" height="auto" alt="image" src="https://github.com/user-attachments/assets/f644314e-6b00-49db-9ccb-2eb0926bdb7e" /><br/>
                  RIP <a href="https://github.com/fushiguro-toji">fushiguro-toji</a><br/>
-                 ↑ i miss my account<br/>
-                 rip my password<br/><br/>
+                 <br/>
                  < HSSSGC 3 <br/>
                  you 2 mean everything to me<br/><br/>
                  <a href="https://github.com/blackbetta">blackbetta</a> <a href="https://github.com/b0imkht">b0imkht</a> block<br/>
