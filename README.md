@@ -18,10 +18,8 @@
                  you 2 mean everything to me<br/><br/>
                  <a href="https://github.com/blackbetta">blackbetta</a> <a href="https://github.com/b0imkht">b0imkht</a> block<br/>
                 <a href="https://github.com/foolingrats">foolingrats</a> <a href="https://github.com/methodreal">methodreal</a> ++ <br/>
-                 <a href="https://github.com/LoveCrime">LoveCrime</a><br/>
-                 <a href="https://github.com/vampaku">vampaku</a><br/>
-                 <a href="https://github.com/fuziyamas">fuziyamas</a><br/>
-                 <a href="https://github.com/smopkins">smopkins</a><br/>
+                 <a href="https://github.com/LoveCrime">LoveCrime</a> <a href="https://github.com/vampaku">vampaku</a><br/>
+                  <a href="https://github.com/fuziyamas">fuziyamas</a> <a href="https://github.com/smopkins">smopkins</a><br/>
                  <a href="https://github.com/cfluixon">cfluixon</a>/<a href="https://github.com/trody">trody</a><br/>
                  <a href="https://github.com/timebattle">timebattle</a><br/>
                   ↑goated oomf<br>
