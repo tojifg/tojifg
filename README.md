@@ -28,7 +28,7 @@
 </table>
 <table align="center">
   <tr><td align="center">
-<img width="240" height="auto" alt="idc" src="https://file.garden/aVPSkoC0BH5GKgbM/github/idc.png" align="left"/> <img width="165" height="auto" alt="about" src="https://file.garden/aVPSkoC0BH5GKgbM/github/about.png" align="right"><br/>
+<img width="230" height="auto" alt="idc" src="https://file.garden/aVPSkoC0BH5GKgbM/github/idc.png" align="left"/> <img width="155" height="auto" alt="about" src="https://file.garden/aVPSkoC0BH5GKgbM/github/about.png" align="right"><br/>
 <p align="justify">Teshi $\color{Red}{\textbf{or}}$ Sion</p>
   </td></tr>
 </table>
