@@ -6,7 +6,7 @@
   <tr><td align="center">
   <img width="160" height="auto" alt="guide" src="https://file.garden/aVPSkoC0BH5GKgbM/github/read.gif"/></td>
   <td align="center">
-      <details><summary>⠀<img width="30" height="auto" alt="heart" src="https://github.com/user-attachments/assets/cf60e0ed-83c1-4d2b-974f-5de134bc160a" /></summary>
+      <details><summary>⠀<img width="70" height="auto" alt="close" src="https://file.garden/aVPSkoC0BH5GKgbM/github/close.gif" /></summary>
   <table align="center"><caption>
     <tr><td align="center">
    <p align="center">
