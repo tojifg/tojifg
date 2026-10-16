@@ -20,7 +20,7 @@
                   <a href="https://github.com/fuziyamas">fuziyamas</a> <a href="https://github.com/smopkins">smopkins</a><br/>
                  <a href="https://github.com/cfluixon">cfluixon</a>/<a href="https://github.com/trody">trody</a><br/>
                  <a href="https://github.com/timebattle">timebattle</a> hits*<br/>
-                 <br/> & more <br/> </br>
+                 & more <br/>
             </p>
     </td></tr></caption></table>
                  </details></td>
