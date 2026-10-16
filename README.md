@@ -33,7 +33,7 @@
   </p>
   </td></tr>
 </table><p align="center">
-<a href="https://rentry.co/teshi"><img width="82" height="auto" alt="main" src="https://file.garden/aVPSkoC0BH5GKgbM/github/main.png" align="center"/></a> ⠀<a href="https://toji.atabook.org/"><img width="117" height="auto" alt="ata" src="https://file.garden/aVPSkoC0BH5GKgbM/github/book.png" align="center"/></a> ⠀<a href="https://rentry.co/inappropriate"><img width="97" height="auto" alt="main" src="https://file.garden/aVPSkoC0BH5GKgbM/github/links.png" align="center"/></a> ⠀<a href="https://tojifg.straw.page/"><img width="112" height="auto" alt="main" src="https://file.garden/aVPSkoC0BH5GKgbM/github/straw.png" align="center"/></a>
+<a href="https://rentry.co/teshi"><img width="84" height="auto" alt="main" src="https://file.garden/aVPSkoC0BH5GKgbM/github/main.png" align="center"/></a> ⠀<a href="https://toji.atabook.org/"><img width="119" height="auto" alt="ata" src="https://file.garden/aVPSkoC0BH5GKgbM/github/book.png" align="center"/></a> ⠀<a href="https://rentry.co/inappropriate"><img width="99" height="auto" alt="main" src="https://file.garden/aVPSkoC0BH5GKgbM/github/links.png" align="center"/></a> ⠀<a href="https://tojifg.straw.page/"><img width="114" height="auto" alt="main" src="https://file.garden/aVPSkoC0BH5GKgbM/github/straw.png" align="center"/></a>
                     </p>
                        <br/>
                     <br/>
