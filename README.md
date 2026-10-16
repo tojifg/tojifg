@@ -32,8 +32,10 @@
 <p align="justify">Teshi $\color{Red}{\textbf{or}}$ Sion $\color{Red}{\textbf{༒︎}}$ 18M En(f) 749 Ch中 Seasian En/中/Kr $\color{Red}{\textbf{Sick}}$ Designer $\color{Red}{\textbf{→}}$ Game Dev $\color{Red}{\textbf{ⓘ}}$ Dystopias Mecha Tech Action Comedy⠀♪⠀Shows <a href="https://rentry.co/yakuzaboss">✚</a>
   </p>
   </td></tr>
-</table><br/>
-                    <img width="150" height="auto" alt="check me out" src="https://file.garden/aVPSkoC0BH5GKgbM/github/tojifg.gif" /> <img width="310" height="auto" alt="music" src="https://file.garden/aVPSkoC0BH5GKgbM/github/music.gif"/><br/>
+</table><br/><p align="center">
+                    <img width="150" height="auto" alt="check me out" src="https://file.garden/aVPSkoC0BH5GKgbM/github/tojifg.gif" /> <img width="310" height="auto" alt="music" src="https://file.garden/aVPSkoC0BH5GKgbM/github/music.gif"/>
+  </p>
+  <br/>
                        <br/>
                     <br/>
                     <br/>
