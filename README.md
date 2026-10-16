@@ -28,7 +28,7 @@
 </table>
 <table align="center">
   <tr><td align="center" width="453">
-<img width="230" height="auto" alt="idc" src="https://file.garden/aVPSkoC0BH5GKgbM/github/idc.png" align="left"/> <img width="135" height="auto" alt="about" src="https://file.garden/aVPSkoC0BH5GKgbM/github/about.png" align="center"><hr>
+<img width="230" height="auto" alt="idc" src="https://file.garden/aVPSkoC0BH5GKgbM/github/idc.png" align="left"/> <img width="105" height="auto" alt="about" src="https://file.garden/aVPSkoC0BH5GKgbM/github/about.png" align="center"><hr>
 <p align="justify">Teshi $\color{Red}{\textbf{or}}$ Sion $\color{Red}{\textbf{༒︎}}$ 18M En(f) Ch中 Seasian #Kr $\color{Red}{\textbf{Sick}}$ Designer $\color{Red}{\textbf{→}}$ Game Dev $\color{Red}{\textbf{ⓘ}}$ Dystopias Mecha Tech Action Comedy $\color{Red}{\textbf{++}}$
   </p>
   </td></tr>
