@@ -20,8 +20,7 @@
                  <a href="https://github.com/LoveCrime">LoveCrime</a> <a href="https://github.com/vampaku">vampaku</a><br/>
                   <a href="https://github.com/fuziyamas">fuziyamas</a> <a href="https://github.com/smopkins">smopkins</a><br/>
                  <a href="https://github.com/cfluixon">cfluixon</a>/<a href="https://github.com/trody">trody</a><br/>
-                 <a href="https://github.com/timebattle">timebattle</a><br/>
-                  ↑goated oomf<br>
+                 <a href="https://github.com/timebattle">timebattle</a> hits*<br/>
                  <br/> & more <br/> </br>
             </p>
     </td></tr></caption></table>
