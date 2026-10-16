@@ -1,4 +1,4 @@
-<br>
+<br/>
 
 <h5 align="center">
    <img width="190" height="auto" alt="hm" src="https://komarev.com/ghpvc/?username=tojifg&style=flat-square&color=F77C37&label=⠀STRAW+HATS+FOUND⠀:&base=1000000000"> <br/><br/>
@@ -34,4 +34,7 @@
   </p>
   </td></tr>
 </table>
+                    <br/>
+                    <br/>
+                    <br/>
   </h5>
