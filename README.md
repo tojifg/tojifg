@@ -1,7 +1,7 @@
 <br>
 
 <h5 align="center">
-<img width="300" height="auto" alt="music" src="https://file.garden/aVPSkoC0BH5GKgbM/github/music.gif" />
+<img width="300" height="auto" alt="music" src="https://file.garden/aVPSkoC0BH5GKgbM/github/music.gif" /><br/>
 <img width="300" height="auto" alt="check me out" src="https://file.garden/aVPSkoC0BH5GKgbM/github/tojifg.gif" /> 
   
   <p align="center">
