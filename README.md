@@ -4,7 +4,7 @@
 <img width="150" height="auto" alt="check me out" src="https://file.garden/aVPSkoC0BH5GKgbM/github/tojifg.gif" /> <img width="310" height="auto" alt="music" src="https://file.garden/aVPSkoC0BH5GKgbM/github/music.gif"/><br/>
 <table align="center">
   <tr><td align="center">
-  <img width="160" height="auto" alt="guide" src="https://file.garden/aVPSkoC0BH5GKgbM/github/readme.gif"/></td>
+  <img width="160" height="auto" alt="guide" src="https://file.garden/aVPSkoC0BH5GKgbM/github/read.gif"/></td>
   <td align="center">
       <details><summary>⠀<img width="30" height="auto" alt="heart" src="https://github.com/user-attachments/assets/cf60e0ed-83c1-4d2b-974f-5de134bc160a" /></summary>
   <table align="center"><caption>
