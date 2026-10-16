@@ -29,7 +29,8 @@
 <table align="center">
   <tr><td align="center">
 <img width="230" height="auto" alt="idc" src="https://file.garden/aVPSkoC0BH5GKgbM/github/idc.png" align="left"/> <img width="155" height="auto" alt="about" src="https://file.garden/aVPSkoC0BH5GKgbM/github/about.png" align="right"><br/>
-<p align="justify">Teshi $\color{Red}{\textbf{or}}$ Sion</p>
+<p align="justify">Teshi $\color{Red}{\textbf{or}}$ Sion $\color{Red}{\textbf{༒︎}}$ 18M En(f) Ch中 Seasian <strong>#</strong>S$\color{Red}{\textbf{W}}$A$\color{Red}{\textbf{G}}$
+  </p>
   </td></tr>
 </table>
   <p align="center">
