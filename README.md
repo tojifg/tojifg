@@ -29,11 +29,10 @@
 <table align="center">
   <tr><td align="center">
 <img width="240" height="auto" alt="idc" src="https://file.garden/aVPSkoC0BH5GKgbM/github/idc.png" align="left"/> <img width="165" height="auto" alt="about" src="https://file.garden/aVPSkoC0BH5GKgbM/github/about.png" align="right"><br/>
-<p align="justify">Teshi <strong>or</strong> Sion</p>
+<p align="justify">Teshi $\color{Red}{\textbf{or}}$ Sion</p>
   </td></tr>
 </table>
   <p align="center">
                   <img width="190" height="auto" alt="hm" src="https://komarev.com/ghpvc/?username=tojifg&style=flat-square&color=F77C37&label=⠀STRAW+HATS+FOUND⠀:&base=1000000000"> 
-    $\color{Blue}{\textbf{Normal, Bold and colored text}}$
             </p>
   </h5>
