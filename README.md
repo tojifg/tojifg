@@ -32,7 +32,7 @@
     </td></tr></caption></table>
                  </details></td>
                  </tr>
-</table><br/>
+</table>
                    <p align="center">
                     <img width="150" height="auto" alt="check me out" src="https://file.garden/aVPSkoC0BH5GKgbM/github/tojifg.gif" /> <img width="310" height="auto" alt="music" src="https://file.garden/aVPSkoC0BH5GKgbM/github/music.gif"/>
   </p>
