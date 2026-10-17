@@ -9,11 +9,10 @@
 <p align="justify">Teshi $\color{Red}{\textbf{or}}$ Sion $\color{Red}{\textbf{༒︎}}$ 18M En(f) 749 Ch中 Seasian En/中/Kr $\color{Red}{\textbf{Sick}}$ Designer $\color{Red}{\textbf{→}}$ Game Dev $\color{Red}{\textbf{ⓘ}}$ Dystopias Mecha Tech Action Comedy⠀♪⠀Shows <a href="https://rentry.co/yakuzaboss">✚</a>
   </p>
   </td></tr>
-</table><br/>
+</table>
   <p align="center">
   <img width="240" height="auto" src="https://spotify-github-profile.kittinanx.com/api/view?uid=veniselim2008&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&profanity=false&hide_remaster=false&bar_color=d10000&bar_color_cover=false" />
     </p>
-  <br/>
 <table align="center">
   <tr><td align="center">
   <img width="160" height="auto" alt="guide" src="https://file.garden/aVPSkoC0BH5GKgbM/github/read.gif"/></td>
