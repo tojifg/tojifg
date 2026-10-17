@@ -11,7 +11,7 @@
   </td></tr>
 </table><br/>
   <p align="center">
-  <img width="420" height="auto" src="https://spotify-github-profile.kittinanx.com/api/view?uid=veniselim2008&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&profanity=false&hide_remaster=false&bar_color=d10000&bar_color_cover=false" />
+  <img width="240" height="auto" src="https://spotify-github-profile.kittinanx.com/api/view?uid=veniselim2008&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&profanity=false&hide_remaster=false&bar_color=d10000&bar_color_cover=false" />
     </p>
   <br/>
 <table align="center">
